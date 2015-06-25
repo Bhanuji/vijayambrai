@@ -1,0 +1,2 @@
+https://code.google.com/p/tortoisegit/wiki/Download
+https://msysgit.github.io/
